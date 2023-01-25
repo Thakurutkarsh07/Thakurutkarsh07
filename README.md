@@ -2,9 +2,9 @@
 
 I'm a freshman ,learning python,CSS3,HTML5 and an open source contributor. I'm currently a Learner and pursuing B.tech CSE at Lovely Professional University,India.
 
-💻 
+
 <br>
-🎓 An Open-Source enthusiast<br>
+🎓 An AI/ML enthusiast<br>
 ➡️ Hackerrank 3	&#11088;
 <BR>
 <b>My skills include :</b><br>
@@ -13,9 +13,10 @@ I'm a freshman ,learning python,CSS3,HTML5 and an open source contributor. I'm c
 🔹️Database : MS Excel <br>
 🔹️Operating System: Windows.<br>
 🔹️IDEs: VS Code, Visual Studio, Anaconda<br>
+🔹️Libraries: NumPy,Pandas,Seaborn<br>
 
 🌱 I’m currently learning more about <b>Python Libraries</b>.<br>
-👯 I’m looking to towards <b>Youtube</b>.<br>
+👯 I’m looking to towards <b>Machine Learning</b>.<br>
 🤔 I’m looking for help with <b>Open Source Development</b>.<br>
 😄 Pronouns: He/His
 
