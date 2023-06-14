@@ -1,6 +1,6 @@
 <h1>Hi, I'm Utkarsh Pratap Singh! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></h1>
 
-I'm a freshman ,learning python,CSS3,HTML5 and an open source contributor. I'm currently a Learner and pursuing B.tech CSE at Lovely Professional University,India.
+Learning Python,JAVA,CSS3,HTML5 and an open source contributor. I'm currently a Learner and pursuing B.tech CSE at Lovely Professional University,India.
 
 
 <br>
