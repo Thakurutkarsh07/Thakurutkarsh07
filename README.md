@@ -35,7 +35,4 @@ LeetCode: <a href="https://leetcode.com/u/The_Elder_Wand/" target="_blank">@The_
 <!-- - Check out my Technical Articles on GeeksforGeeks-<a href="https://auth.geeksforgeeks.org/user/" target="_blank">@GeeksforGeeks</a><br> -->
 - Check Out my Instagram Profile- <a href="https://www.instagram.com/_utkarsh_thakur___" target="_blank">@Instagarm</a><br>
 
-```html
-<form>
-  <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_Ov1exTxIFcHcGF" async></script>
-</form>
+
