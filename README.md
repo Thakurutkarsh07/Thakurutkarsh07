@@ -7,7 +7,8 @@ Learning Python,JAVA,CSS3,HTML5 and an open source contributor. I'm currently a 
 <br>
 🎓 An AI/ML enthusiast<br>
 ➡️ Hackerrank 3	&#11088;<br>
-LeetCode: <a href="https://leetcode.com/u/The_Elder_Wand/" target="_blank">@The_Elder_Wand</a>
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/The_Elder_Wand/)
+
 <BR>
 <b>My skills include :</b><br>
 🔹️Programming Language: Java,C, Python, JavaScript <br>
@@ -36,8 +37,5 @@ LeetCode: <a href="https://leetcode.com/u/The_Elder_Wand/" target="_blank">@The_
 <!-- - Check out my Technical Articles on GeeksforGeeks-<a href="https://auth.geeksforgeeks.org/user/" target="_blank">@GeeksforGeeks</a><br> -->
 - Check Out my Instagram Profile- <a href="https://www.instagram.com/_utkarsh_thakur___" target="_blank">@Instagarm</a><br>
 
-```html
-<form>
-  <script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_Ov1exTxIFcHcGF" async></script>
-</form>
+
 
