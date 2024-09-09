@@ -23,9 +23,11 @@ Learning Python,JAVA,CSS3,HTML5 and an open source contributor. I'm currently a 
 🤔 I’m looking for help with <b>Open Source Development</b>.<br>
 😄 Pronouns: He/His
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Thakurutkarsh07&show_icons=true&locale=en" alt="Thakurutkarsh07" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thakurutkarsh07&show_icons=true&locale=en&layout=compact" alt="deekshagg" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thakurutkarsh07&" alt="Thakurutkarsh07" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thakurutkarsh07&" alt="Thakurutkarsh07" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thakurutkarsh07&show_icons=true&locale=en&layout=compact" alt="deekshagg" /></p>
+
 
 <h2> Find me around the web 🌎: </h2><br>
 
