@@ -9,8 +9,8 @@ Learning Python,JAVA,CSS3,HTML5 and an open source contributor. I'm currently a 
 <BR>
 <b>My skills include :</b><br>
 🔹️Programming Language: Java,C, Python, JavaScript <br>
-🔹️Web Development: HTML5 , CSS3 <br>
-🔹️Database : MS Excel, MySQL, PL/SQL, NoSQL. <br>
+🔹️Web Development: HTML5 , CSS3, React.js <br>
+🔹️Database : MongoDB, MS Excel, MySQL, PL/SQL, NoSQL. <br>
 🔹️Operating System: Windows.<br>
 🔹️IDEs: VS Code, Visual Studio, Anaconda<br>
 🔹️Libraries: NumPy,Pandas,Seaborn<br>
