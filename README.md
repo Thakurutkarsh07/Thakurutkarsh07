@@ -5,7 +5,7 @@ Learning Python,JAVA,CSS3,HTML5 and an open source contributor. I'm currently a 
 
 <br>
 🎓 An AI/ML enthusiast<br>
-➡️ Hackerrank 3	&#11088;
+➡️ Hackerrank 3	&#11088;<br>
 LeetCode: <a href="https://leetcode.com/u/The_Elder_Wand/" target="_blank">@The_Elder_Wand</a>
 <BR>
 <b>My skills include :</b><br>
