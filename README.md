@@ -43,4 +43,14 @@ Aspiring Software Engineer | Full-Stack Developer | AI/ML Enthusiast | Open Sour
 - 🚀 Tech Profile on **HackerRank** - <a href="https://www.hackerrank.com/thakurutkarsh_01" target="_blank">@HackerRank</a><br>
 - 📸 Instagram - <a href="https://www.instagram.com/_utkarsh_thakur___" target="_blank">@Instagram</a><br>
 
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Thakurutkarsh07&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Thakurutkarsh07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 Let's connect and build something amazing together! 🚀
