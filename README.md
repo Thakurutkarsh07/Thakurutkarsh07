@@ -13,7 +13,7 @@ Aspiring Software Engineer | Full-Stack Developer | AI/ML Enthusiast | Open Sour
 
 ### 🚀 My Tech Stack:
 
-🔹 **Programming Languages:** Java, Python, C, JavaScript<br>
+🔹 **Programming Languages:** Java, Python, C, JavaScript, Kotlin<br>
 🔹 **Web Development:** HTML5, CSS3, React.js, Node.js, Express.js<br>
 🔹 **Databases:** MongoDB, MySQL, PL/SQL, NoSQL<br>
 🔹 **AI/ML & Data Science:** NumPy, Pandas, Seaborn<br>
